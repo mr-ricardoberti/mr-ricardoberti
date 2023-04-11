@@ -1,4 +1,4 @@
-<p align="left">Olá, seja bem vindo! Sou a Maiara Berti<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
+<p align="left">Olá, seja bem vindo! Sou a Ricardo Berti<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 <br>
 

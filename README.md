@@ -5,9 +5,9 @@
 <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> Sobre mim
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
   - 🕹️ Hobbies
-      <p>Nerd assumida, apaixonada por videogame, tecnologia, filmes, séries</p>
+      <p>Nerd assumido, apaixonado por videogame, tecnologia, filmes, séries</p>
   - 📚 Formação
-      <p>Tecnóloga em Gestão financeira e estudante no Bootcamp de Desenvolvedor Web FullStack by GrowDev - 14ª edição</p>
+      <p>Tecnólogo em Gestão financeira e estudante no Bootcamp de Desenvolvedor Web FullStack by GrowDev - 14ª edição</p>
   - 🧞‍♀️ Experiências profissionais
       <p>Quase 8 anos trabalhando no Banco Bradesco S/A</p>
 - 💻 Estudando Atualmente:
@@ -42,10 +42,10 @@
 <p><b>Vamos nos conectar..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></p>
 <br>
 <div align='left'>
-  <a href="https://linkedin.com/in/maiara-berti" target="_blank">
+  <a href="https://linkedin.com/in/ricardo-berti" target="_blank">
 <img src="https://img.shields.io/badge/-Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
   </a>
-  <a href="mailto:bertimaiara@gmail.com" target="_blank">
+  <a href="mailto:mr.ricardoberti@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
   </a>
 </div>
